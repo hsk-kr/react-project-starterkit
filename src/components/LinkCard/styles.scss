@@ -1,0 +1,9 @@
+.card {
+  width: 200px;
+  height: 200px;
+  box-shadow: 2px 1px #efefef;
+
+  &:hover {
+    background-color: #efefef;
+  }
+}
